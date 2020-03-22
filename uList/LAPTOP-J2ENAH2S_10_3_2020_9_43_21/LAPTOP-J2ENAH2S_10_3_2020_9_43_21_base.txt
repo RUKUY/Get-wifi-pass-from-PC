@@ -1,0 +1,45 @@
+---------------------
+NAME:	  iPhone (Майкл)
+PASSWORD: youreallyholyjesus
+---------------------
+NAME:	  AndroidAP
+PASSWORD: ffte6571
+---------------------
+NAME:	  KV-15
+PASSWORD: 89066048469
+---------------------
+NAME:	  Codeman
+PASSWORD: kmen25808
+---------------------
+NAME:	  bstu_guest
+PASSWORD: kmen2580
+---------------------
+NAME:	  KomodFree
+PASSWORD: kmen258
+---------------------
+NAME:	  Ebasosinka
+PASSWORD: kmen2580
+---------------------
+NAME:	  X
+PASSWORD: kmen258
+---------------------
+NAME:	  Redmi
+PASSWORD: 12344321
+---------------------
+NAME:	  bstu_login
+PASSWORD: 1234432
+---------------------
+NAME:	  Vita
+PASSWORD: more2019
+---------------------
+NAME:	  iPhone
+PASSWORD: zamul1987
+---------------------
+NAME:	  Santorini
+PASSWORD: more2019
+---------------------
+NAME:	  DSL-2640U
+PASSWORD: Ivan1379
+---------------------
+NAME:	  ZM
+PASSWORD: 19871988
